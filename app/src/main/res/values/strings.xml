@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimulaVestLogin</string>
+    <string name="teste">Alguns campos estão incorretos</string>
+    <string name="teste2">O campo de celular está incorreto</string>
+    <string name="teste3">O campo e-mail está incorreto</string>
+    <string name="cadastro">Você foi cadastrado</string>
+    <string-array name="itens">
+        <item color="white">Masculino</item>
+        <item color="white">Feminino</item>
+        <item color="white">Não quero declarar</item>
+    </string-array>
+    <string-array name="itens2">
+        <item color="white">Em qual cidade sua mãe nasceu?</item>
+        <item color="white">Qual o nome do seu primeiro cachorro?</item>
+    </string-array>
+    <string-array name="vest">
+        <item color="white">ENEM</item>
+        <item color="white">FUVEST</item>
+        <item color="white">UNESP</item>
+        <item color="white">Unicamp</item>
+    </string-array>
+    <string name="title_activity_teste">teste</string>
+    <string name="sublinhado"><b>Clique aqui</b></string>
+</resources>

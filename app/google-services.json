@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015171624686",
+    "firebase_url": "https://fir-vestibular.firebaseio.com",
+    "project_id": "fir-vestibular",
+    "storage_bucket": "fir-vestibular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015171624686:android:3d6cc202a9fa5abf",
+        "android_client_info": {
+          "package_name": "com.example.simulavestlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015171624686-b731pg4g9lb5onal023jllb1g3aliv47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simulavestlogin",
+            "certificate_hash": "8d2b4c360ac00030c905494cfe7fd384bf0e3cff"
+          }
+        },
+        {
+          "client_id": "1015171624686-gmeotng0c6i1ttaraaolmd4f1dgatkdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAul1lqJRd1t2_tkaxHG3RNR1wl43veXa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015171624686-gmeotng0c6i1ttaraaolmd4f1dgatkdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
