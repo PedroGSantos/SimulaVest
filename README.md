@@ -4,3 +4,5 @@
 <img src="Screenshots/Cronograma.png" align = "left">
 <img src="Screenshots/SplashScreen.png" align="left">
 <img src="Screenshots/Notifi.png" align="center">
+
+<h2><a href="https://cbt.ifsp.edu.br/images/Documentos/2020/trabalhos_academicos/Grupo07_SimulaVest.pdf?fbclid=IwAR0tpKEaAPhv1Kw5Jc0jBD5epklpNK-_GY3c5WSGlUfnYj__35N2nWsoZmw">Artigo acadêmico completo do SimulaVest</a></h2>
