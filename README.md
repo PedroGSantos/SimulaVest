@@ -3,6 +3,7 @@
  
 <img src="Screenshots/Cronograma.png" align = "left">
 <img src="Screenshots/SplashScreen.png" align="right">
+
+
+
 <img src="Screenshots/Not.jpg" align="center">
-
-
